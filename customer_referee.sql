@@ -1,0 +1,1 @@
+SELECT name from customer WHERE referee_id IS NULL OR referee_id NOT LIKE 2;
